@@ -447,7 +447,7 @@ public class CopyOfCanvasWidgetsTest {
 	    	    
 	    	   }
 	    	   
-	    	   
+	    	   driver.close();
 	    	      
                         report.endTest(logger);
 	    	            report.flush();  
