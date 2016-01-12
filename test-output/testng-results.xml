@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="306213" started-at="2016-01-12T09:54:07Z" finished-at="2016-01-12T09:59:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="306213" started-at="2016-01-12T09:54:07Z" finished-at="2016-01-12T09:59:13Z">
+      <class name="com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeClass" is-config="true" duration-ms="10537" started-at="2016-01-12T15:24:07Z" finished-at="2016-01-12T15:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="5503" started-at="2016-01-12T15:24:18Z" finished-at="2016-01-12T15:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addTextWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addTextWidget" duration-ms="43299" started-at="2016-01-12T15:24:23Z" finished-at="2016-01-12T15:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTextWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="2858" started-at="2016-01-12T15:25:07Z" finished-at="2016-01-12T15:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addTextWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addTextWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="5483" started-at="2016-01-12T15:25:09Z" finished-at="2016-01-12T15:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addButtonWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addButtonWidget" duration-ms="52800" started-at="2016-01-12T15:25:15Z" finished-at="2016-01-12T15:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addButtonWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="2979" started-at="2016-01-12T15:26:08Z" finished-at="2016-01-12T15:26:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addButtonWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addButtonWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="5626" started-at="2016-01-12T15:26:11Z" finished-at="2016-01-12T15:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addImageWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addImageWidget" duration-ms="53778" started-at="2016-01-12T15:26:16Z" finished-at="2016-01-12T15:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addImageWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="2748" started-at="2016-01-12T15:27:10Z" finished-at="2016-01-12T15:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addImageWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addImageWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="5561" started-at="2016-01-12T15:27:13Z" finished-at="2016-01-12T15:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addVideoWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addVideoWidget" duration-ms="51821" started-at="2016-01-12T15:27:18Z" finished-at="2016-01-12T15:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVideoWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="3447" started-at="2016-01-12T15:28:10Z" finished-at="2016-01-12T15:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addVideoWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addVideoWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="5792" started-at="2016-01-12T15:28:14Z" finished-at="2016-01-12T15:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addGadgetWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addGadgetWidget" duration-ms="9784" started-at="2016-01-12T15:28:19Z" finished-at="2016-01-12T15:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGadgetWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="5581" started-at="2016-01-12T15:28:29Z" finished-at="2016-01-12T15:28:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addGadgetWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addGadgetWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="5063" started-at="2016-01-12T15:28:35Z" finished-at="2016-01-12T15:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addLanguageWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addLanguageWidget" duration-ms="8215" started-at="2016-01-12T15:28:40Z" finished-at="2016-01-12T15:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLanguageWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="3215" started-at="2016-01-12T15:28:48Z" finished-at="2016-01-12T15:28:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addLanguageWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addLanguageWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="4501" started-at="2016-01-12T15:28:51Z" finished-at="2016-01-12T15:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addChannelWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="addChannelWidget" duration-ms="11108" started-at="2016-01-12T15:28:56Z" finished-at="2016-01-12T15:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addChannelWidget -->
+        <test-method status="PASS" signature="aftrMtd(org.testng.ITestResult)[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="aftrMtd" is-config="true" duration-ms="5433" started-at="2016-01-12T15:29:07Z" finished-at="2016-01-12T15:29:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addChannelWidget status=SUCCESS method=CopyOfCanvasWidgetsTest.addChannelWidget()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMtd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest@4d0d9fe7]" name="tearDown" is-config="true" duration-ms="1023" started-at="2016-01-12T15:29:12Z" finished-at="2016-01-12T15:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tpvision_performance.testscripts.CopyOfCanvasWidgetsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
